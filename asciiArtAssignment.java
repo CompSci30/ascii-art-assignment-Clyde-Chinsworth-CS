@@ -10,7 +10,9 @@ public class asciiArtAssignment
 		System.out.println("A   A    L        E         X X ");
 		System.out.println("A   A    LLLLL    EEEEE    X   X");
 
-		System.out.println("\"-..___     __.='>");
+		System.out.println(" \n\"-..___     __.='>");
 		System.out.println("`.     \"\"\"\"\"   ,'");
+		System.out.println("  \"-..__   _.-\"");
+		System.out.println("        \"\"\" ");
 	}
 }
